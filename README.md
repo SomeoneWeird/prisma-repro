@@ -2,7 +2,7 @@
 
 ### Setup
 
-`npx lerna bootstrap && cd packages/db && npx prisma generate`
+`npx lerna bootstrap && cd packages/db && npx prisma generate && npm run build`
 
 ### Running
 
